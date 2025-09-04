@@ -1,3 +1,5 @@
+# Legelso Python projekt valtoztatas
+
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
@@ -6,7 +8,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Szia, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'szia, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
